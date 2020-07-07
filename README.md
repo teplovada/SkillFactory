@@ -1,2 +1,0 @@
-# SkillFactory
-SF tasks
